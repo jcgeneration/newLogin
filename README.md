@@ -3,7 +3,9 @@
 ## Formulario de Login con nuevos estilos 
 
 
-![Banner] (https://raw.githubusercontent.com/jcgeneration/newLogin/main/img/newLogin.png)
+<!-- Add banner here -->
+![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
+
 
 
 
