@@ -1,2 +1,3 @@
-# newLogin
-Nuevo formulario de Login
+# Nuevo formulario de Login
+
+## Formulario de Login con nuevos estilos 
