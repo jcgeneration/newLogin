@@ -1,4 +1,17 @@
 
+/* section login */
+#login{
+	height: 100vh;
+}
+/* login-image */
+#login-image{
+	background-image: url("./../img/you-employed-home-square2-2x.png");
+	background-repeat: no-repeat, repeat;
+	background-position: center; /* Center the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+/* 
 .form-style-7{
 	max-width:400px;
 	margin:50px auto;
@@ -108,4 +121,4 @@
 .form-style-7 input[type="button"]:hover{
 	background: #6B9FFF;
 	color:#fff;
-}
+} */
